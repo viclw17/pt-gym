@@ -1,0 +1,60 @@
+﻿  main.cpp
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\image.h(57,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\image.h(57,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\image.h(58,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\image.h(58,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\image.h(59,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\image.h(59,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\ray.h(12,100): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(33,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(34,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(36,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(43,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(45,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(52,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\sampler.h(54,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\material.h(37,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\material.h(39,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\material.h(73,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\material.h(77,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\material.h(123,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\camera.h(10,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(46,23): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(99,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(99,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(99,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(99,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(109,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(135,23): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(204,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(204,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(204,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(204,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\integrator.h(214,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(23,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(24,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(24,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(25,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(25,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(26,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(26,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(27,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(27,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(38,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(40,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(40,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(41,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(42,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(43,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(43,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(43,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(44,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(44,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(44,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\src\main.cpp(61,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+  Luminox.vcxproj -> C:\Users\livictor\Documents\GitHub\pt-gym\Luminox\x64\Debug\Luminox.exe
